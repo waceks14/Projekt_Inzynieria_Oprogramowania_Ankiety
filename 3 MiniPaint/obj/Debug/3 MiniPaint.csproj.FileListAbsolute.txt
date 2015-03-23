@@ -1,0 +1,15 @@
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\bin\Debug\3 MiniPaint.exe.config
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\bin\Debug\3 MiniPaint.exe
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\bin\Debug\3 MiniPaint.pdb
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.csprojResolveAssemblyReference.cache
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\obj\Debug\_3_MiniPaint.Form1.resources
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\obj\Debug\_3_MiniPaint.Properties.Resources.resources
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.csproj.GenerateResource.Cache
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.exe
+C:\Users\kleks\Documents\Visual Studio 2012\Projects\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.pdb
+C:\Users\Student\Desktop\3 MiniPaint\3 MiniPaint\bin\Debug\3 MiniPaint.exe.config
+C:\Users\Student\Desktop\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.exe
+C:\Users\Student\Desktop\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.pdb
+I:\Programowanie komponentowe\3 MiniPaint\3 MiniPaint\bin\Debug\3 MiniPaint.exe.config
+I:\Programowanie komponentowe\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.exe
+I:\Programowanie komponentowe\3 MiniPaint\3 MiniPaint\obj\Debug\3 MiniPaint.pdb
